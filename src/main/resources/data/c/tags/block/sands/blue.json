@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#c:quicksands/blue",
+    {
+      "required": false,
+      "id": "#biomeswevegone:sand/blue"
+    }
+  ]
+}

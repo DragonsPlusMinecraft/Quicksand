@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "refmap": "quicksand.refmap.json",
+  "package": "plus.dragons.quicksand.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "biomeswevegone.BWGBlocksMixin",
+    "minecraft.ClimbOnTopOfPowderSnowGoalMixin",
+    "minecraft.DrownedMixin",
+    "minecraft.EntityMixin",
+    "minecraft.HuskMixin",
+    "minecraft.ItemMixin",
+    "minecraft.ItemStackMixin",
+    "minecraft.LivingEntityMixin",
+    "minecraft.ZombieMixin"
+  ],
+  "client": [
+    "minecraft.client.LivingEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#c:quicksands/white",
+    {
+      "required": false,
+      "id": "#biomeswevegone:sand/white"
+    },
+    {
+      "required": false,
+      "id": "biomesoplenty:white_sand"
+    }
+  ]
+}

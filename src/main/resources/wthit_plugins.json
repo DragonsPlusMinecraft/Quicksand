@@ -1,0 +1,8 @@
+{
+  "quicksand:plugin": {
+    "entrypoints" : {
+      "common": "plus.dragons.quicksand.integration.wthit.QuicksandWthitCommonPlugin",
+      "client": "plus.dragons.quicksand.integration.wthit.QuicksandWthitClientPlugin"
+    }
+  }
+}

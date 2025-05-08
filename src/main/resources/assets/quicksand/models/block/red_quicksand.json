@@ -1,0 +1,6 @@
+{
+  "parent": "block/powder_snow",
+  "textures": {
+    "texture": "quicksand:block/red_quicksand"
+  }
+}

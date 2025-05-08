@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#c:quicksands/windswept",
+    {
+      "required": false,
+      "id": "#biomeswevegone:sand/windswept"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "quicksand:biomesoplenty/white_quicksand"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/white_quicksand"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "values": [
+    "quicksand:quicksand_cauldron",
+    "quicksand:red_quicksand_cauldron",
+    {
+      "required": false,
+      "id": "quicksand:biomesoplenty/white_quicksand_cauldron"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomesoplenty/orange_quicksand_cauldron"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomesoplenty/black_quicksand_cauldron"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/black_quicksand_cauldron"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/white_quicksand_cauldron"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/blue_quicksand_cauldron"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/purple_quicksand_cauldron"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/pink_quicksand_cauldron"
+    }
+  ]
+}

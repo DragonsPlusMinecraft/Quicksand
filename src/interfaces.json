@@ -1,0 +1,17 @@
+{
+  "net/minecraft/world/item/Item": [
+    "plus/dragons/quicksand/common/extension/QuicksandItemExtension"
+  ],
+  "net/minecraft/world/item/ItemStack": [
+    "plus/dragons/quicksand/common/extension/QuicksandItemStackExtension"
+  ],
+  "net/minecraft/world/entity/Entity": [
+    "plus/dragons/quicksand/common/extension/QuicksandEntityExtension"
+  ],
+  "net/minecraft/world/entity/LivingEntity": [
+    "plus/dragons/quicksand/common/extension/QuicksandLivingEntityExtension"
+  ],
+  "net/minecraft/world/entity/monster/Zombie": [
+    "plus/dragons/quicksand/common/extension/QuicksandConvertible"
+  ]
+}

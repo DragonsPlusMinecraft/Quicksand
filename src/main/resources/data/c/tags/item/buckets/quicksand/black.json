@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "quicksand:biomesoplenty/black_quicksand_bucket"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/black_quicksand_bucket"
+    }
+  ]
+}

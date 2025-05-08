@@ -1,0 +1,38 @@
+{
+  "values": [
+    "quicksand:quicksand",
+    "quicksand:red_quicksand",
+    {
+      "required": false,
+      "id": "quicksand:biomesoplenty/white_quicksand"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomesoplenty/orange_quicksand"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomesoplenty/black_quicksand"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/black_quicksand"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/white_quicksand"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/blue_quicksand"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/purple_quicksand"
+    },
+    {
+      "required": false,
+      "id": "quicksand:biomeswevegone/pink_quicksand"
+    }
+  ]
+}
